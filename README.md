@@ -1,9 +1,8 @@
 # Cplusplus-Program
 
-* Summarize the project and what problem it was solving.
-- Project 3 is a program made to keep track of sales on items 
-* What did you particularly well?
-* Where could you enhance your code? How would these improvements make your code efficient, secure, and so   on?
-* Which pieces of the code did you find most challenging to write, and how did you overcome this? What       tools or resources are you adding to your support network?
-* What skills from this project will be particularly tranferable to other projects or course work?
-* How did you make this program maintainable, readable, and adaptable?
+- Project Corner Grocer-grocery tracking is a program that analyzes the text records they generate throughtout the day. The program gives the user 4 choices. The first choice       produces a list of all the items purchased in a given day along with the number of times each item was purchased. The second choice produces a number that represents how many     times a specific item was purchased. The third choice produces a text-based histogram listing of all the items purchased in a given day, along with the number that represents     the amount of times each item were purchased. The fourth choice is the choise to end the program.
+- Designing the menu and making sure it worked without getting stuck in a choice. I have ran into that problem in the past and didn't want to commit the same mistakes. I like for the menu to always have the company or name of the program at the top. It gives the program a professional look. 
+- Adding the proper comments and documentation in order for others to read what the program functions do. It improves my code by making it easier to figure out what each important codes do or what are their functions. 
+- The most challeging part to write was making sure the code create that frequency.dat in Python. I did some intense research and looked over my zyBook for details which finally     helped generate the code. Many websites like geekforgeeks.org have some good examples which helped with the situation. 
+- Most of the codes written in the program can be reused in other project or course work. For example, I can used the skills that creates a histogram on a different program that needs the same function.
+- The program has comments and documentation which helps understand and read the program better. It uses human reable and sensible names. It is a clean and consistent code and testable. 
